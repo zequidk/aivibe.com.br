@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="112" viewBox="0 0 430 112" fill="none">
+  <defs><linearGradient id="wire"><stop stop-color="#3b376b"/><stop offset=".55" stop-color="#8780c6"/><stop offset="1" stop-color="#454573"/></linearGradient><pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".7" fill="#5e597d"/></pattern></defs>
+  <rect width="430" height="112" fill="url(#dots)" opacity=".6"/>
+  <g stroke="url(#wire)" stroke-width="1.4"><path d="M45 55h61q7 0 13-6l22-22q5-5 11-5h55m-101 33h96m-96 0q7 0 13 6l22 22q5 5 11 5h55m40-66h29q7 0 13 6l22 21q6 6 12 6h59m-135 0h77m-77 33h29q7 0 13-6l22-21q6-6 12-6"/></g>
+  <g fill="#23223a" stroke="#8c85c3"><rect x="17" y="43" width="29" height="24" rx="4"/><rect x="204" y="12" width="42" height="20" rx="4"/><rect x="204" y="45" width="42" height="20" rx="4"/><rect x="204" y="78" width="42" height="20" rx="4"/><circle cx="384" cy="55" r="6"/></g>
+  <path d="M215 22h20m-20 33h20m-20 33h20" stroke="#aba1dc" stroke-linecap="round"/>
+</svg>
